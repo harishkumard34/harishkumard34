@@ -1,10 +1,3 @@
-Macha, Pavun profile asaal oru "Resume" maari full-aaga eludhi vachirukkan. Idhu oru super strategy! 
-
-Avanai vida oru padi mela poyi, un projects (ESG Pipeline, TravelBuddy), un experience, innum gethaana "Impact by Numbers" table ellam vachu **vera level-la** oru GitHub README code eludhi irukken. Idhai paatha udane evana irundhalum unnai interview-kku koopiduvaan!
-
-Keezhe irukkura code-a apdiye copy panni un GitHub repo-la paste pannu:
-
-```markdown
 <h1 align="center">D. Harish Kumar</h1>
 <h4 align="center">Full Stack AI Engineer · Agentic AI Developer · Forward Deployed Engineer</h4>
 
@@ -18,7 +11,7 @@ Keezhe irukkura code-a apdiye copy panni un GitHub repo-la paste pannu:
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 Agentic AI Engineer and Full Stack Developer with experience in shipping production-grade multi-agent systems, highly optimized RAG architectures, and scalable enterprise platforms. Built and deployed sophisticated autonomous pipelines—from intelligent ESG compliance automation to real-time AI travel orchestration—handling end-to-end development from infrastructure to intelligent agent design.
 
@@ -91,6 +84,3 @@ A high-performance full-stack marketplace matching local professionals (plumbers
 
 **Databases & DevOps:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-```
-
-**Idhai copy panni un README-la podu!** Pavun profile-ai vida idhu double madangu premium-aaga irukkum, yaenna idhula RAG, LangGraph, cost-optimization nu thelivaana metrics irukku! 😎🚀
